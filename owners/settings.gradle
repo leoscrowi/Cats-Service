@@ -1,0 +1,4 @@
+rootProject.name = 'owners'
+
+include ':domain'
+project(':domain').projectDir = file('../domain')

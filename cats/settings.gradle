@@ -1,0 +1,4 @@
+rootProject.name = 'cats'
+
+include ':domain'
+project(':domain').projectDir = file('../domain')
