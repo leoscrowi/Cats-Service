@@ -1,4 +1,4 @@
-# Cats-Service
+# Pets-Service
 
 # Ссылки на ТЗ:
 
